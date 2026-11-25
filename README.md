@@ -1,5 +1,12 @@
 # Bank Customer Churn & Retention Dashboard
 
+![Power BI](https://img.shields.io/badge/POWER_BI-LIGHT_%26_DARK-0B0B0B?style=flat-square&labelColor=1D1D1D)
+![DAX](https://img.shields.io/badge/DAX-DATA_MODELING-1D1D1D?style=flat-square&labelColor=0B0B0B)
+![Domain](https://img.shields.io/badge/DOMAIN-BANKING_RISK-3D3D3D?style=flat-square&labelColor=1D1D1D)
+![License](https://img.shields.io/badge/LICENSE-MIT-3D3D3D?style=flat-square&labelColor=1D1D1D)
+
+[Live Portfolio ↗](https://nady-07.github.io/portfolio/#portfolio) · [Download .PBIX File](./Bank_Churn_Project.pbix) · [LinkedIn](https://www.linkedin.com/in/mohamed-alnady-52b87123b)
+
 A Power BI executive dashboard that shows **which bank customers leave, how much deposit balance leaves with them, and where retention efforts should focus**. It is styled with an HSBC-inspired look and available in light and dark themes.
 
 > **Disclaimer:** This is a portfolio project built on a sample customer dataset of 10,000 records. It does not use real bank data and is not affiliated with HSBC.
@@ -87,5 +94,17 @@ A single fact table plus a dedicated measures table:
 Bank-Customer-Churn-Dashboard/
 ├── Bank_Churn_Project.pbix   # Power BI report
 ├── images/                   # Dashboard screenshots
+├── LICENSE
 └── README.md
 ```
+
+---
+
+## License
+
+Licensed under the [MIT License](./LICENSE).
+
+---
+
+**Mohamed Al Nady** — *Data & Business Intelligence Analyst*  
+[Live Portfolio ↗](https://nady-07.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/mohamed-alnady-52b87123b) · [Email](mailto:mohamednady0@outlook.com) · [GitHub](https://github.com/Nady-07)
